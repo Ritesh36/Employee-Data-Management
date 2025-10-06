@@ -93,12 +93,10 @@ employee-management-system/
     │
     ├── .env                          # Frontend environment variables
     └── package.json                  # Frontend dependencies
-
+```
 ## Output :-
 
-!<img width="1857" height="912" alt="Image" src="https://github.com/user-attachments/assets/b4b0e23d-0958-45d7-9b22-2be746caa519" />
+<img width="1857" height="912" alt="Image" src="https://github.com/user-attachments/assets/b4b0e23d-0958-45d7-9b22-2be746caa519" />
 
-!<img width="1856" height="915" alt="Image" src="https://github.com/user-attachments/assets/748189e4-f567-4fd3-bb93-92952b4329fa" />
 
-!<img width="1855" height="910" alt="Image" src="https://github.com/user-attachments/assets/915b6fa4-e5af-4d37-834b-d97d0843bb80" />
 
